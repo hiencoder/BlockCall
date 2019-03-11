@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BlockCall</string>
+    <string name="txt_title_permissions_required">Permissions required</string>
+    <string name="txt_message_required">The app requires some permissions to start</string>
+    <string name="txt_continue">Continue</string>
+    <string name="txt_title_dialog_setting">Need permissions</string>
 </resources>
