@@ -1,7 +1,22 @@
 <resources>
-    <string name="app_name">BlockCall</string>
-    <string name="txt_title_permissions_required">Permissions required</string>
-    <string name="txt_message_required">The app requires some permissions to start</string>
-    <string name="txt_continue">Continue</string>
-    <string name="txt_title_dialog_setting">Need permissions</string>
+	<string name="app_name">BlockCall</string>
+	<string name="txt_title_permissions_required">Permissions required</string>
+	<string name="txt_message_required">The app requires some permissions to start</string>
+	<string name="txt_continue">Continue</string>
+	<string name="txt_title_dialog_setting">Need permissions</string>
+	<string name="txt_add_to_the_black_list">Add to the black list</string>
+	<string name="txt_from_call_log">From call log</string>
+	<string name="txt_from_contacts">From contacts</string>
+	<string name="txt_enter_number">Enter the number</string>
+	<string name="txt_phone_number">Phone number</string>
+	<string name="txt_numbers_starting_with">Numbers starting with</string>
+	<string name="txt_numbers_end_with">Numbers ending with</string>
+	<string name="txt_numbers_containing">Numbers containing</string>
+	<string name="txt_black_list">Blacklist</string>
+	<string name="txt_blocked_calls">Blocked Calls</string>
+	<string name="txt_incoming_call_from_blacklist">Incoming calls from blacklist will be blocked automatically</string>
+	<string name="txt_calls_that_have_been_blocked">Calls that have been blocked will appear here</string>
+	<string name="txt_settings">Settings</string>
+	<string name="txt_more_apps">More apps</string>
+
 </resources>

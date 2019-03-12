@@ -9,6 +9,9 @@ abstract class BaseActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(getLayoutId())
         ButterKnife.bind(this)
+        setupToolbar()
+        initData()
+        initEvents()
     }
 
     protected abstract fun getLayoutId(): Int
